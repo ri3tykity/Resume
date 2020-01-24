@@ -6,4 +6,9 @@
 TBU
 
 ## Experience
-- #### .NET Developer at [Infosys LTD.](https://www.infosys.com)
+- #### Technology Analyst at [Infosys LTD.](https://www.infosys.com)
+  *Jan 2019 - present*
+    > My roles and responsibility in project is from application requirement analysis to development of .NET Applications.
+- #### Senior Software Developer at [Nature Technologies Pvt LTD.](https://www.natureglobal.com)
+  *July 2014 - Jan 2019
+    > I was working in a SaaS Based product. My key responsibility was to enhance feature and maintain the admin dashboard.
