@@ -1,7 +1,8 @@
 # Deepak Kumar Ojha 
 
 ### `Full Stack Developer`
-#### `.NET Expert`, `Flutter`, `JavaScript`
+> #### `.NET MVC/Core` `JavaScript` `Entity Framework`
+> #### `Fluter`
 
 ## Summary
 TBU
