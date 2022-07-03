@@ -1,7 +1,7 @@
 # Deepak Kumar Ojha 
 
-#### `Full Stack Developer`
-### `.NET Expert`, `Flutter`, `JavaScript`
+### `Full Stack Developer`
+#### `.NET Expert`, `Flutter`, `JavaScript`
 
 ## Summary
 TBU
