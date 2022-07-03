@@ -2,7 +2,7 @@
 
 ### `Full Stack Developer`
 > #### `.NET MVC/Core` `JavaScript` `Entity Framework`
-> #### `Fluter`
+> #### `Fluter` `Firebase`
 
 ## Summary
 TBU
