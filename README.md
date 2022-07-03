@@ -7,7 +7,10 @@ TBU
 
 ## Experience
 - #### Technology Analyst at [Infosys LTD.](https://www.infosys.com)
-  *Jan 2019 - present*
+  *Mar 2022 - present*
+    > TBU
+- #### Technology Analyst at [Infosys LTD.](https://www.infosys.com)
+  *Jan 2019 - Mar 2022*
     > My roles and responsibility in project is from application requirement analysis to development of .NET Applications.
 - #### Senior Software Developer at [Nature Technologies Pvt LTD.](https://www.natureglobal.com)
   *July 2014 - Jan 2019*
@@ -17,7 +20,7 @@ TBU
 
 
 ## Education
-
+TBU
 
 ## Languages
 - English *(Full professional proficiency)*
@@ -25,7 +28,7 @@ TBU
 - Bengali *(Reading and writing)*
 
 ## Interests
-Reading, Sudoku Game
+Meditation, Sudoku Game
 
 ## Contact
 Email: [deepak.rkity@gmail.com](mailto:deepak.rkity@gmail.com)
